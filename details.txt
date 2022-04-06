@@ -1,0 +1,116 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "topic": "Kidney Awareness",
+      "day": "Tuesday",
+      "venue": "SIUT lecture Hall",
+      "speaker": "Dr Adib Rizvi",
+      "audiencelimit": 500
+    },
+    {
+      "id": 2,
+      "topic": "Thyroid Drive",
+      "day": "Wednesday",
+      "venue": "AKUH lecture Hall",
+      "speaker": "Dr Azra",
+      "audiencelimit": 250
+    },
+    {
+      "id": 3,
+      "topic": "Cancer Awareness",
+      "day": "Wednesday",
+      "venue": "SIUT lecture Hall",
+      "speaker": "Dr Matthews",
+      "audiencelimit": 250
+    },
+    {
+      "id": 4,
+      "topic": "Lung Cancer",
+      "day": "Sunday",
+      "venue": "NICH",
+      "speaker": "Dr Rana",
+      "audiencelimit": 370
+    },
+    {
+      "topic": "Diabetes Awareness",
+      "day": "Thursday",
+      "venue": "Bahria Auditorium",
+      "speaker": "Dr. Debra Lobo",
+      "audiencelimit": "400",
+      "id": 5
+    },
+    {
+      "topic": "Ozone Depletion Awareness",
+      "day": "Friday",
+      "venue": "Marriot Hotel Karachi",
+      "speaker": "John Doe",
+      "audiencelimit": "800",
+      "id": 6
+    },
+    {
+      "topic": "Artificial Intelligence",
+      "day": "Sunday",
+      "venue": "UIT Lecture Hall",
+      "speaker": "Prof. Usman Arif",
+      "audiencelimit": "60",
+      "id": 7
+    },
+    {
+      "topic": "Data Mining",
+      "day": "Tuesday",
+      "venue": "UIT Auditorium",
+      "speaker": "Dr Lubaid Ahmed",
+      "audiencelimit": "290",
+      "id": 8
+    },
+    {
+      "topic": "Seerat Nabi Conference",
+      "day": "Every Monday",
+      "venue": "UIT Auditorium",
+      "speaker": "Mufti Adnan Kakakhail",
+      "audiencelimit": "300",
+      "id": 9
+    },
+    {
+      "topic": "Purpose of Life ",
+      "day": "Wednesday",
+      "venue": "Generation's School",
+      "speaker": "Tuaha Ibn Jalil",
+      "audiencelimit": "500",
+      "id": 10
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Ana",
+      "number": 123456,
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "hana",
+      "number": 789654,
+      "email": "hana@gmail.com"
+    },
+    {
+      "name": "den",
+      "number": 125478,
+      "email": "den@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "harry",
+      "number": 4255752,
+      "email": "harr@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "annie",
+      "number": 12354876,
+      "email": "annie@gmail.com",
+      "id": 5
+    }
+  ]
+}
